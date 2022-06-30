@@ -1,7 +1,7 @@
 {
   "name": "portfolio-generator",
   "version": "1.0.0",
-  "description": "Portfolio-Generator",
+  "description": "Module assignment",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +18,5 @@
   "homepage": "https://github.com/tlor0026/portfolio-generator#readme",
   "dependencies": {
     "inquirer": "^7.0.3"
-  },
-  "devDependencies": {}
+  }
 }
