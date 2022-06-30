@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tlor0026/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "7.0.3"
-  }
+    "inquirer": "^7.0.3"
+  },
+  "devDependencies": {}
 }
